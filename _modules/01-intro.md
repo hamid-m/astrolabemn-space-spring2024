@@ -9,6 +9,8 @@ Jan. 5
   : Levels 1 & 2
 : **Measuring Space**{: .label .label-blue} 
   : Level 2
+: **[How Hubble Images are Made](https://www.youtube.com/watch?v=QGf0yzdM5OA)**{: .label .label-yellow}
+  : NASA Video explaining image processing
 
 Jan. 12
 : Discovering Stars
