@@ -30,5 +30,15 @@ Jan. 19
 : **Wayfinding: Polynesian Star Navigation**{: .label .label-blue} 
   : Level 2
 
+Jan. 26
+: The Solar System & Our Sun
+  : Lesson 4
+: Discuss solar system and terms like *orbit*, *axis*, and *atmosphere*.  Do activity on *planet years*.  Discuss *planet* vs *dwarf planets*.  Do activity exploring the distance of each planet from the sun.
+: **Orbiting the Sun**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Exoplanets: Planets Around Other Stars**{: .label .label-blue} 
+  : Level 2
+
+
 
 
