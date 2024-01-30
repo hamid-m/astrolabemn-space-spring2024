@@ -40,5 +40,15 @@ Jan. 26
   : Level 2
 
 
+Feb. 2
+: Terrestrial Planets: Mercury & Venus
+  : Lesson 5
+: Discuss properties of Mercury and Venus and do (journal) activity learning facts about each.  Practice correctly identifying plants based on their picture.
+: **Mercury or Venus**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Venera Probes**{: .label .label-blue} 
+  : Level 2
+
+
 
 
