@@ -61,6 +61,23 @@ Feb. 9
 : **Our Favorite Martians**{: .label .label-blue} 
   : Level 2
 
+Feb. 16
+: Phases of the Moon
+  : Lesson 7
+: Discuss properties of Earth and Mars and start (journal) coloring activity while reading facts about each from the book.  **Science Project:** Discuss building dome-shaped planetarium structure and build a paper-based model in class.
+: **Moon Puzzle**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Moon Phases**{: .label .label-blue} 
+  : Levels 1 & 2
+: (optional) **Lunar Calendar**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Solar Eclipses**{: .label .label-blue} 
+  : Level 2
+: **[Moon Phases - NASA](https://science.nasa.gov/moon/moon-phases/)**{: .label .label-yellow}
+  : NASA article describing and showing phases of the moon
+
+
+
 
 
 
