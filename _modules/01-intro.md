@@ -43,11 +43,24 @@ Jan. 26
 Feb. 2
 : Terrestrial Planets: Mercury & Venus
   : Lesson 5
-: Discuss properties of Mercury and Venus and do (journal) activity learning facts about each.  Practice correctly identifying plants based on their picture.
+: Discuss properties of Mercury and Venus and do (journal) activity learning facts about each.  Practice correctly identifying planets based on their picture.
 : **Mercury or Venus**{: .label .label-blue} 
   : Levels 1 & 2
 : **Venera Probes**{: .label .label-blue} 
   : Level 2
+
+
+Feb. 9
+: Terrestrial Planets: Earth & Mars
+  : Lesson 6
+: Discuss properties of Earth and Mars and start (journal) coloring activity while reading facts about each from the book.  **Science Project:** Discuss building dome-shaped planetarium structure and build a paper-based model in class.
+: **Blue or Red Planet**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Challenges of Life on Mars**{: .label .label-blue} 
+  : Levels 1 & 2
+: **Our Favorite Martians**{: .label .label-blue} 
+  : Level 2
+
 
 
 
