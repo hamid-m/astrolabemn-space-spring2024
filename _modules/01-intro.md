@@ -1,5 +1,5 @@
 ---
-title: Space Science
+title: Space Science - 1st Half
 ---
 Jan. 5
 : Introduction to Space
