@@ -21,4 +21,8 @@ Apr. 19
 Apr. 26 
 : Juputer and Saturn
   : Lesson 10
+: Reviewed the celestial bodies from last week.  Discussed Jupiter and Saturn, the gas giants.  Did an in-class art activity as an exmaple of ebru, the Turkish art of marbling.  Used to create patterns similar in appearance to Jupiter.
+: **Lesson 10 Extension**{: .label .label-blue} 
+  : Level 2
+
 
